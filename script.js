@@ -15,7 +15,8 @@ accordionHeader.forEach(button => {
             if (content !== accordionContent) {
                 content.classList.remove('active');
                 content.previousElementSibling.querySelector('.arrow').classList.remove('active');
-            }
+            }tiktok. classlistHoover
+            
         });
     });
 });
